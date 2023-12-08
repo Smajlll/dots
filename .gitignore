@@ -1,0 +1,6 @@
+# Ignore all of theese configs, they can be diffrent on some computers, or are not important enough.
+
+pavucontrol.ini
+pulse/
+qtfm6/
+viewnior/
