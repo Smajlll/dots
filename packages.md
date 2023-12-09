@@ -13,10 +13,16 @@ x11-terms/alacritty
 app-misc/neofetch
 app-shells/fish
 app-eselect-eselect-repository (for adding the guru repo)
+sys-auth/elogind
+x11-apps/xrandr
+media-gfx/maim
+x11-misc/dunst
+x11-misc/xclip
+x11-misc/xdg-user-dirs
 
 # Guru Gentoo Ebuild Repo
 x11-misc/betterlockscreen
 
 # Not in any repo (you need to compile them)
-
 oh-my-fish
+
