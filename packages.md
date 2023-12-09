@@ -21,9 +21,9 @@ You will need to install theese packages to use this config. If using gentoo, yo
 - x11-misc/xdg-user-dirs
 - media-fonts/jetbrains-mono
 
-# Guru Gentoo Ebuild Repo
+## Guru Gentoo Ebuild Repo
 - x11-misc/betterlockscreen
 
-# Not in any repo (you need to compile them)
-- [https://github.com/oh-my-fish/oh-my-fish](oh-my-fish)
+## Not in any repo (you need to compile them)
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 
