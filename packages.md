@@ -20,6 +20,7 @@ You will need to install theese packages to use this config. If using gentoo, yo
 - x11-misc/xclip
 - x11-misc/xdg-user-dirs
 - media-fonts/jetbrains-mono
+- app-editors/neovim
 
 ## Guru Gentoo Ebuild Repo
 - x11-misc/betterlockscreen
